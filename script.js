@@ -1,3 +1,4 @@
+// Thanks to https://www.rndgen.com/data-generator for a lot of datas
 let data = [
     {
         "firstName": "Jhon",
